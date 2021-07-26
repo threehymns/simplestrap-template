@@ -1,5 +1,5 @@
-# Single Page Bootstrap Template
-This single page bootstrap template can be used in any GNU licensed project.
+# SimpleStrap Template
+SimpleStrap is an easily customizable bootstrap template that can be used in any GPL licensed project. It loads in less than a second on even slow internet connections and is based on a single page layout.
 ## How to Contribute
 Feel free to submit any improvements to the template.
 
